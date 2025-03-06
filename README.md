@@ -1,2 +1,2 @@
-# yejun
-Yejun
+# minseo
+kimminseo
